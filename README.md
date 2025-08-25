@@ -2,7 +2,7 @@
 Making a chess agent using Reinforcement Learning, Sparse Q, and Deep Q  
 
   
-Project requires chess, numpy, and torch  
+Project requires the following libraries: python-chess, numpy, and torch  
 You must also acquire the latest version of stockfish and place it in the same directory as the project for scoring to function properly. https://github.com/official-stockfish/Stockfish  
   
   
